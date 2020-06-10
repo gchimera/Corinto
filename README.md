@@ -2,11 +2,8 @@
 
 <br>
 
-### Watch the video 
+[Watch the video](https://youtu.be/EhlCxW6s3CQ "Watch the video")
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
 
 # Corinto
 Corinto nasce dalla necessità di conoscere in tempo reale come si svolge ed evolve l’attività aziendale.

@@ -41,4 +41,6 @@ La localizzazione del dipendente, necessaria per la timbratura, può essere effe
 
 <img src="https://cdn2.dropmarkusercontent.com/420459/8724854b4187ba6e7ebb9d19af85db12f90ef028768771b62ea84a1fa1a5c5ee/Screenshot%202020-06-10%20at%2023.59.12.png?Expires=1591833681&Signature=CjyICid-9wZ25veEp28jTsYQDf1Vl5qXFpp9WIDimILbYZsUk4huMGJsilbJ3Iu6GW9qEN4Vd8JBjaO5FXbJllu5jrug3jSB9ozUnEfqfuMbXtZqkf~Wf~fIHAYuQvh9OLrbMVSY38CW69JwF1zFKFKCBIX7LraSjVJ2dKUzgyu0y2dQJMVFBtqur22jKMkpntHz2FXfS5nl7AHd6en~dqNU3nt4UbcU89Kt~3IEZgoHBq~ggBSH1ecxVsror-vbW57Ma10sJ4Y9Kgcc7avNiGy0LN2Q9IwR-7daE4H3L7wpWyqh0HTeYQ-tDLfTlIHqCcGk66ocIylTYED4G-rXAQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ" alt="#" width="560px">
 
+<br>
+
 <img src="https://cdn2.dropmarkusercontent.com/420459/5a0cc86b1b865e476958ab89724d1e2ccc072578a9785560cfdd2032fdbc1784/preview/750x750bb.jpg?Expires=1591834409&Signature=PdtDxOUVWTGtZ1e-WiRAQMZGlZQdqcVO84L5ouuSBYCx5B7GiJsShJshL7b2WTtUXnWRbAFnehOZ-24xuLZpY8edSEf2YcjeC4I~3GOeAEdtyy~i4rXykCcCbmOfY5WDyiJdZCZh095E~vgpybWoxtxzPCr7BoX6T49xYDSOlysa8hHJBgNzhdRJFuueOc1uh~VZAxWYf2yKMGjR4NPvT~jEhkVDpc4ECFrv~lpiqo4TsKKAA9~I0WkLkIptSsrj9OPXzp~WHQN6bEvKHcpBKwkd1fblNBRU3kMLrvNgNCMAIDh6MGj7wwPxbQEUjEsTPiUxIJ9YPd3tbqMIe0kirg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ" alt="#" width="560px">

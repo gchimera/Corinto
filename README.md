@@ -2,7 +2,11 @@
 
 <br>
 
-<img src="https://cdn2.dropmarkusercontent.com/420459/d4f7de4b044528c877acb640585714e16b0e6cee2fc0da8a13c4bf41ac8e8895/logo%403x.png?Expires=1591827603&Signature=J0Ul6Y4unhurHZdFUBh3yjKO96WKxbP~XHkSvaB7YMpbl2OnSMQ-4jANhcy2jBviTjjJ-XSk6NCNve1OxGHq0CLdz7JynWhgCB9Vx3lda2VgeYP~7j7VAxuPt00LGs-DspU102YIcNUKaDYE7ZSTHAzAhRJx6A1nWUpL-A4k-ux1OqVdKuSRcA-deq75l70wIQroJN8e3QmO0bMCc74lOv~UfAwHV-VwLHcIa~Urs4~urzCHW4ZTj4nML-B~dqXKVVTQuaXZKdiK8iqy7Kn1-h9Xmc9r2~C5ij3wcwQfzuJb~6p~Q4N0XkM060sPrTQX9tJMfUrSoyr-Q2Ttk4khkA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ" width="560px">
+### Watch the video 
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 
 # Corinto
 Corinto nasce dalla necessità di conoscere in tempo reale come si svolge ed evolve l’attività aziendale.
